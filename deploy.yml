@@ -1,0 +1,22 @@
+version: 0.2
+
+env:
+  shell: bash
+  secrets-manager:
+    SLACK_WEBHOOKURL: "slack:k12stream"
+phases:
+  build:
+    commands:
+      - pip install git+https://github.com/openstax/raise-mbtools@d4ca6ab0
+      - copy-resources-s3 ./files/ "$CONTENT_S3_BUCKET" contents/raise/resources https://k12.openstax.org/contents/raise/resources resources.html
+      - aws s3 cp --cache-control no-cache resources.html "s3://$CONTENT_S3_BUCKET/contents/raise/resources.html"
+    on-failure: ABORT
+    finally:
+      - "if [[ $CODEBUILD_BUILD_SUCCEEDING != 1 ]]; then curl -X POST -H 'Content-type: application/json' --data '{\"text\":\"Error in k12-media-raise pipeline!\"}' $SLACK_WEBHOOKURL; fi"
+  post_build:
+    commands:
+      - export SLACK_MESSAGE="k12-media-raise deployment completed for commit $COMMIT_ID"
+      - "curl -X POST -H 'Content-type: application/json' --data '{\"text\":\"'\"$SLACK_MESSAGE\"'\"}' $SLACK_WEBHOOKURL"
+artifacts:
+  files:
+    - resources.html
