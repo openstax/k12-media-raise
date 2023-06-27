@@ -7,7 +7,7 @@ env:
 phases:
   build:
     commands:
-      - pip install git+https://github.com/openstax/raise-mbtools@d4ca6ab0
+      - pip install git+https://github.com/openstax/raise-mbtools@85bb7c0c
       - copy-resources-s3 ./files/ "$CONTENT_S3_BUCKET" contents/raise/resources https://k12.openstax.org/contents/raise/resources resources.html
       - aws s3 cp --cache-control no-cache resources.html "s3://$CONTENT_S3_BUCKET/contents/raise/resources.html"
     on-failure: ABORT
