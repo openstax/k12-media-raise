@@ -1,0 +1,103 @@
+1
+00:00:00,410 --> 00:00:03,812
+When writing an equation from a table of values, you
+
+2
+00:00:03,813 --> 00:00:08,370
+need two things the y intercept and the slope.
+
+3
+00:00:08,371 --> 00:00:11,818
+Let's take a look at question six from the activity.
+
+4
+00:00:11,819 --> 00:00:15,570
+The y intercept is where x equals zero.
+
+5
+00:00:15,571 --> 00:00:17,950
+To find this, work backward.
+
+6
+00:00:19,090 --> 00:00:23,204
+Since the pattern of the y value goes up by two,
+
+7
+00:00:23,205 --> 00:00:27,610
+subtract two to find the value when X equals zero.
+
+8
+00:00:27,611 --> 00:00:32,170
+When x equals zero, y also equals zero.
+
+9
+00:00:32,171 --> 00:00:34,834
+Now that the Y intercept is known,
+
+10
+00:00:34,835 --> 00:00:37,130
+it's time to find the slope.
+
+11
+00:00:37,131 --> 00:00:39,776
+Remember, slope is the change in
+
+12
+00:00:39,777 --> 00:00:42,352
+y over the change in x.
+
+13
+00:00:42,353 --> 00:00:44,432
+Look at the table and find the
+
+14
+00:00:44,433 --> 00:00:47,070
+change in y and change in x.
+
+15
+00:00:47,071 --> 00:00:50,176
+Notice that the x values change by one.
+
+16
+00:00:50,177 --> 00:00:52,500
+The y values change by two.
+
+17
+00:00:52,501 --> 00:00:56,320
+So the slope is two over one or two.
+
+18
+00:00:57,170 --> 00:00:59,572
+Now put this all together to write
+
+19
+00:00:59,573 --> 00:01:02,320
+an equation in slope intercept form.
+
+20
+00:01:03,330 --> 00:01:07,780
+Slope intercept form is y equals MX plus
+
+21
+00:01:07,781 --> 00:01:11,650
+B m is the slope, which is two.
+
+22
+00:01:11,651 --> 00:01:15,156
+B is the y intercept which is zero.
+
+23
+00:01:15,157 --> 00:01:18,924
+So the equation is y equals two x
+
+24
+00:01:18,925 --> 00:01:23,036
+plus zero, or y equals two x.
+
+25
+00:01:23,037 --> 00:01:25,052
+Now it's your turn to try to write
+
+26
+00:01:25,053 --> 00:01:27,430
+an equation from a table of values.

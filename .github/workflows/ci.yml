@@ -1,0 +1,17 @@
+---
+name: Media CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validation:
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Ensure no .mp4 files are being added
+        run: "! find . -name '*.mp4' -print -quit | grep -q ."

@@ -1,0 +1,111 @@
+1
+00:00:00,650 --> 00:00:03,844
+Write the equation y equals one third
+
+2
+00:00:03,845 --> 00:00:07,410
+X minus four in standard form.
+
+3
+00:00:07,411 --> 00:00:11,410
+The given equation is in slope intercept form.
+
+4
+00:00:11,411 --> 00:00:16,290
+Remember that was Y equals MX plus B.
+
+5
+00:00:16,291 --> 00:00:21,360
+Standard form is ax plus by equals C.
+
+6
+00:00:22,050 --> 00:00:26,070
+Step one: get rid of the fractions in the equation.
+
+7
+00:00:26,650 --> 00:00:29,610
+Multiply every term by three.
+
+8
+00:00:29,611 --> 00:00:33,218
+Three Y equals three times the quantity
+
+9
+00:00:33,219 --> 00:00:36,040
+of one third x minus four.
+
+10
+00:00:36,890 --> 00:00:41,504
+Step two: distribute and simplify
+
+11
+00:00:41,505 --> 00:00:43,980
+three Y equals X minus twelve.
+
+12
+00:00:45,070 --> 00:00:48,448
+Step three: bring the x term to
+
+13
+00:00:48,449 --> 00:00:51,194
+the same side as the y term.
+
+14
+00:00:51,195 --> 00:00:54,450
+Subtract x from both sides.
+
+15
+00:00:54,451 --> 00:00:59,920
+Three Y minus X equals X minus X minus twelve.
+
+16
+00:01:00,930 --> 00:01:04,343
+Step four: simplify three y
+
+17
+00:01:04,344 --> 00:01:07,510
+minus X equals negative twelve.
+
+18
+00:01:07,511 --> 00:01:09,860
+Notice the y term is first.
+
+19
+00:01:10,550 --> 00:01:15,690
+Step five: write the equation so the x term is first.
+
+20
+00:01:15,691 --> 00:01:20,120
+Negative x plus three y equals negative twelve.
+
+21
+00:01:20,810 --> 00:01:22,556
+The problem is now that the
+
+22
+00:01:22,557 --> 00:01:25,308
+x is negative. In standard form
+
+23
+00:01:25,309 --> 00:01:27,720
+do not lead with a negative number.
+
+24
+00:01:28,330 --> 00:01:32,812
+Step six: multiply each term by negative one so
+
+25
+00:01:32,813 --> 00:01:36,108
+as not to lead with a negative. Negative one
+
+26
+00:01:36,109 --> 00:01:39,996
+times the quantity of negative x plus three y
+
+27
+00:01:39,997 --> 00:01:43,316
+equals negative twelve becomes x minus three
+
+28
+00:01:43,317 --> 00:01:44,720
+Y equals twelve.
