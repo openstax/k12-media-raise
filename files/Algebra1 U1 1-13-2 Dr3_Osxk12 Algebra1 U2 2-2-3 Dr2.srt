@@ -1,0 +1,87 @@
+1
+00:00:00,170 --> 00:00:02,436
+Graphing a system of equations has
+
+2
+00:00:02,437 --> 00:00:05,410
+steps similar to graphing one equation.
+
+3
+00:00:05,411 --> 00:00:08,290
+Here is a system of two equations.
+
+4
+00:00:08,291 --> 00:00:11,716
+Y equals four x minus four and
+
+5
+00:00:11,717 --> 00:00:14,900
+Y equals negative two x plus eight.
+
+6
+00:00:14,901 --> 00:00:17,460
+First, find the slope and Y
+
+7
+00:00:17,461 --> 00:00:19,482
+intercept of the first equation.
+
+8
+00:00:19,483 --> 00:00:23,620
+The slope is four because that is the coefficient of x.
+
+9
+00:00:23,621 --> 00:00:27,240
+The Y intercept or B is negative four.
+
+10
+00:00:27,930 --> 00:00:30,316
+Next, find the slope and Y
+
+11
+00:00:30,317 --> 00:00:32,753
+intercept of the second equation.
+
+12
+00:00:32,754 --> 00:00:35,116
+The slope is negative two because
+
+13
+00:00:35,117 --> 00:00:37,244
+that is the coefficient of x.
+
+14
+00:00:37,245 --> 00:00:40,348
+The Y intercept or b is eight.
+
+15
+00:00:40,349 --> 00:00:44,490
+Graph both equations on the same coordinate plane.
+
+16
+00:00:44,491 --> 00:00:47,890
+Remember to first graph the Y intercept.
+
+17
+00:00:47,891 --> 00:00:51,012
+Then use the slope to find more points.
+
+18
+00:00:51,013 --> 00:00:53,412
+The first line is the purple line.
+
+19
+00:00:53,413 --> 00:00:55,604
+The second line is in black.
+
+20
+00:00:55,605 --> 00:00:58,026
+Identify the solution by finding
+
+21
+00:00:58,027 --> 00:01:00,458
+where the two lines intersect.
+
+22
+00:01:00,459 --> 00:01:03,840
+They intersect at the point of 2,4.
